@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  applications:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-01-23T13:10:14.388632-05:00"
+    description: Applications
+    digest: cebaa836498a2f229e66f92152fbbad5285f06cf19290ff178e1ce7355863f89
+    icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+    name: applications
+    type: application
+    urls:
+    - https://github.com/VikasLall/helm2.git/applications-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-23T13:10:14.388263-05:00"
