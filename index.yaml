@@ -10,6 +10,6 @@ entries:
     name: applications
     type: application
     urls:
-    - https://github.com/VikasLall/helm2.git/applications-0.1.0.tgz
+    - https://github.com/VikasLall/helm2/applications-0.1.0.tgz
     version: 0.1.0
 generated: "2024-01-23T13:10:14.388263-05:00"
